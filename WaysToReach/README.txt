@@ -1,0 +1,1 @@
+A child has to reach from starting point 1 to destination n, he can only move 1, 2, or 3 moves. Tell the number of ways he can more to step n.
