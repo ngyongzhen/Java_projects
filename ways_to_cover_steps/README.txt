@@ -1,0 +1,1 @@
+Count ways in which a person can cover n steps, if he jumps 1 step or 2 steps or 3 steps at a time.
